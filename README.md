@@ -32,5 +32,13 @@ When you execute the code, you will get these outputs:
 
 ![image](https://user-images.githubusercontent.com/55946999/113038947-c7a15a00-919f-11eb-9838-abc3668b4ba0.png)
 
+**The Source I Used**
+
+* https://www.instructables.com/Sending-Data-From-Arduino-to-Python-Via-USB/
+* https://www.youtube.com/watch?v=Tnsm_JteSSE
+* https://www.tutorialspoint.com/arduino/arduino_temperature_sensor.htm
+* https://arduinogetstarted.com/tutorials/arduino-light-sensor
+* https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button
+
 
 
