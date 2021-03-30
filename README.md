@@ -15,9 +15,11 @@ Used items on arduino
 3. Photoresistor X1
 4. Button X1
 
-After following the diagram, download the sketch_mar23a.ino file and upload it to arduino.
+After following the diagram, download the sketch_mar23a.ino and upload it to the arduino.
 
 # Step 2 Python Part
+Download Arduno_Data_Read file and open it. Download the pyserial library (pip install pyserial)
 
+When you execute the code, you will get these outputs.
 
 
