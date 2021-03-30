@@ -22,10 +22,14 @@ Download Arduno_Data_Read file and open it. Download the pyserial library (pip i
 
 When you execute the code, you will get these outputs:
 
-**Terminal**
+**Terminal**:
+
 ![image](https://user-images.githubusercontent.com/55946999/113038892-b8221100-919f-11eb-8774-05a50553fd00.png)
 
-**Data.txt**
+
+**Data.txt**: 
+
+
 ![image](https://user-images.githubusercontent.com/55946999/113038947-c7a15a00-919f-11eb-9838-abc3668b4ba0.png)
 
 
