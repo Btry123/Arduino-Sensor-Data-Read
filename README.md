@@ -1,7 +1,7 @@
 # Arduino-Sensor-Data-Read
 Receiving data from Arduino in serial connection
 
-Projede Arduino'ya bağlı sensörlerden çıkan bilgilerin python ile txt dosyasına kaydedilmesi hedeflenmektedir.
+In this project, it is aimed to save the information from the sensors to the txt file.
 
 
 
